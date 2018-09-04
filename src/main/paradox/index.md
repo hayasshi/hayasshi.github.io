@@ -43,7 +43,6 @@ Scala, Akkaをつかったサーバーサイドアプリケーションの開発
 
 @@@ index
 
-- [職務経歴](Resume/index.md)
 - [このサイトについて](AboutThisSite/index.md)
 
 @@@
