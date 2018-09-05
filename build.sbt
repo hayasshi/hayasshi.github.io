@@ -8,5 +8,5 @@ lazy val root = (project in file("."))
   .enablePlugins(ParadoxPlugin)
   .settings(
     paradoxTheme := Some(builtinParadoxTheme("generic")),
-    (target in paradox) in Compile := baseDirectory.value / "docs"
+    (target in paradox) in Compile := baseDirectory.value
   )
