@@ -6,17 +6,17 @@
 - Twitter: [hayasshi_](https://twitter.com/hayasshi_)
 - Qiita: [hayasshi](https://qiita.com/hayasshi)
 
-## Abouts
+## Biography
 
-- 1986生まれ
-- 大阪在住のソフトウェアエンジニア
+1986生まれの大阪在住のソフトウェアエンジニアです。
 
-## PR
+大学からIPネットワーク、およびプログラムに携わり始め、就職をしてから`Java`をずっと使用していました。<br/>
+より簡潔に、より堅牢にソフトウェアをつくりやすい言語を探す中で`Scala`に出会い、その後は仕事でもプライベートでも好んで使用しています。
 
-Scala, Akkaをつかったサーバーサイドアプリケーションの開発で価値を提供できます。<br />
-通常のサーバーアプリケーション(動的HTML, API)からストリームデータ非同期処理システムの設計実装、テストや運用まで幅広くこなせます。
+`Scala`, `Akka`をつかったバックエンドアプリケーションの開発運用が得意です。<br />
+通常のWebアプリケーション(動的HTML, WebAPI)からストリームデータ非同期処理システムの設計実装、テストや運用まで幅広くこなせます。
 
-環境としては、AWS, Kubernetes, Docker, RDB, Kafka, HBaseを利用した開発経験があります。
+環境としては、`AWS`, `Kubernetes`, `Docker`, `RDB`, `Kafka`, `HBase`を利用した開発経験があります。
 
 ## Skills
 
